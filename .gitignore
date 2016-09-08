@@ -1,0 +1,6 @@
+*.o
+bin
+fastSAT
+result
+*.out
+*.cnf
